@@ -39,6 +39,11 @@ Once user inputs their data, function validates it's credentials (comparing it w
 ```
 pip install -r requirements.txt
 ```
+3. **Create account**
+- In users.txt file add
+```
+username|password
+```
 3. **Run project**
 - Windows
 ```
