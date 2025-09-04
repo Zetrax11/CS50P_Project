@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 username|password
 ```
-3. **Run project**
+4. **Run project**
 - Windows
 ```
 python project.py
