@@ -1,0 +1,3 @@
+kamil|Password1
+marta|Password2
+test|Password3
