@@ -1,5 +1,7 @@
 # Expense tracker
 
+## Video Demo:  <[URL HERE](https://youtu.be/7W69-vgDsC0)>
+
 ## Description:
 
 The expense tracker helps you record monthly spending, visualize expenses by category and compare costs across different months to better manage your budget.
